@@ -6,7 +6,7 @@ const Sidenav = () => {
         <div className="left">
      
      <div class="navigation">
-       <div class="wrapper2">
+       <div class="wrapper2 fixed-content">
        <div class="folder-icons">
          <div class="">
           
